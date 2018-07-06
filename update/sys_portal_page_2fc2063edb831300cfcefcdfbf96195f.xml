@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-07-06 00:35:16">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-06 00:08:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2fc2063edb831300cfcefcdfbf96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+        <sys_update_name>sys_portal_page_2fc2063edb831300cfcefcdfbf96195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-06 00:08:09</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2fc2063edb831300cfcefcdfbf96195f</page>
+                <summary>Open Finance Cases</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                <sys_id>19a3467edb831300cfcefcdfbf961989</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">6bc2063edb831300cfcefcdfbf961960</grid_canvas>
+                        <height>18</height>
+                        <portal_widget display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>61a34a7edb831300cfcefcdfbf961972</sys_id>
+                        <sys_mod_count>9</sys_mod_count>
+                        <sys_name>6bc2063edb831300cfcefcdfbf961960</sys_name>
+                        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_61a34a7edb831300cfcefcdfbf961972</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:20:15</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>15a3467edb831300cfcefcdfbf96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>1da3467edb831300cfcefcdfbf961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>b4f10efadb831300cfcefcdfbf961939</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>21a3467edb831300cfcefcdfbf96198b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>Open Finance Cases</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>51a3467edb831300cfcefcdfbf96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>6da3467edb831300cfcefcdfbf96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>99a3467edb831300cfcefcdfbf96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:50">19a3467edb831300cfcefcdfbf961989</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:50</sys_created_on>
+                        <sys_id>d5a3467edb831300cfcefcdfbf96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:50</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2fc2063edb831300cfcefcdfbf96195f</page>
+                <summary>Finance Cases by Assigned To</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                <sys_id>2c130a3edb831300cfcefcdfbf9619c8</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">6bc2063edb831300cfcefcdfbf961960</grid_canvas>
+                        <height>18</height>
+                        <portal_widget display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_widget>
+                        <posx>6</posx>
+                        <posy>18</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>a0130a3edb831300cfcefcdfbf9619cc</sys_id>
+                        <sys_mod_count>12</sys_mod_count>
+                        <sys_name>6bc2063edb831300cfcefcdfbf961960</sys_name>
+                        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_a0130a3edb831300cfcefcdfbf9619cc</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:20:16</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>28130a3edb831300cfcefcdfbf9619c9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>67e0c6badb831300cfcefcdfbf961954</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>2c130a3edb831300cfcefcdfbf9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>68130a3edb831300cfcefcdfbf9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>a0130a3edb831300cfcefcdfbf9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>Finance Cases by Assigned To</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>a4130a3edb831300cfcefcdfbf9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>e0130a3edb831300cfcefcdfbf9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-05 17:09:19">2c130a3edb831300cfcefcdfbf9619c8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:09:19</sys_created_on>
+                        <sys_id>ec130a3edb831300cfcefcdfbf9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:09:19</sys_updated_on>
+                        <value>pyramid</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2fc2063edb831300cfcefcdfbf96195f</page>
+                <summary>Finance Cases by State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                <sys_id>ae73067edb831300cfcefcdfbf961997</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">6bc2063edb831300cfcefcdfbf961960</grid_canvas>
+                        <height>18</height>
+                        <portal_widget display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_widget>
+                        <posx>6</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:06</sys_created_on>
+                        <sys_id>a273067edb831300cfcefcdfbf96199c</sys_id>
+                        <sys_mod_count>9</sys_mod_count>
+                        <sys_name>6bc2063edb831300cfcefcdfbf961960</sys_name>
+                        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_a273067edb831300cfcefcdfbf96199c</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:20:11</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>2273067edb831300cfcefcdfbf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>6e73067edb831300cfcefcdfbf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>a273067edb831300cfcefcdfbf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>599fb93adb831300cfcefcdfbf961976</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>a673067edb831300cfcefcdfbf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>Finance Cases by State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>aa73067edb831300cfcefcdfbf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>e273067edb831300cfcefcdfbf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-05 17:11:05">ae73067edb831300cfcefcdfbf961997</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:11:05</sys_created_on>
+                        <sys_id>e673067edb831300cfcefcdfbf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:11:05</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2fc2063edb831300cfcefcdfbf96195f</page>
+                <summary>Finance Cases by Requestor</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                <sys_id>b6158e7edb831300cfcefcdfbf961909</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">6bc2063edb831300cfcefcdfbf961960</grid_canvas>
+                        <height>18</height>
+                        <portal_widget display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_widget>
+                        <posx>0</posx>
+                        <posy>18</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>3215c6bedb831300cfcefcdfbf961971</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name>6bc2063edb831300cfcefcdfbf961960</sys_name>
+                        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_3215c6bedb831300cfcefcdfbf961971</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:20:15</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>3a158e7edb831300cfcefcdfbf96190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>76158e7edb831300cfcefcdfbf96190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>b2158e7edb831300cfcefcdfbf96190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>ba158e7edb831300cfcefcdfbf961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>34f48e7edb831300cfcefcdfbf96194e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>be158e7edb831300cfcefcdfbf96190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>Finance Cases by Requestor</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>fa158e7edb831300cfcefcdfbf96190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-05 17:18:12">b6158e7edb831300cfcefcdfbf961909</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-07-06 00:18:12</sys_created_on>
+                        <sys_id>fe158e7edb831300cfcefcdfbf961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-07-06 00:18:12</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

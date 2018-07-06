@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Assigned To">0cef35badb831300cfcefcdfbf96197f</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-07-05 23:55:21</sys_created_on>
+        <sys_id>04ef35badb831300cfcefcdfbf961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0cef35badb831300cfcefcdfbf96197f</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+        <sys_update_name>sys_report_users_groups_04ef35badb831300cfcefcdfbf961980</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-07-05 23:55:21</sys_updated_on>
+        <user_id display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</user_id>
+    </sys_report_users_groups>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>true</disabled>
+        <field>description</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-05 23:08:19</sys_created_on>
+        <sys_id>3b05f572db831300cfcefcdfbf96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_126923_finance_c">8f4081b6db031300cfcefcdfbf9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">8f4081b6db031300cfcefcdfbf9619bd</sys_scope>
+        <sys_update_name>sys_ui_policy_action_3b05f572db831300cfcefcdfbf96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-05 23:08:19</sys_updated_on>
+        <table>x_126923_finance_c_finance_case_management</table>
+        <ui_policy display_value="Lock down fields on Closed Incomplete">4174b172db831300cfcefcdfbf96193c</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

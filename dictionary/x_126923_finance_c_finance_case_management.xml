@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Finance Case Management" max_length="40" name="x_126923_finance_c_finance_case_management" sizeclass="7" type="collection"/>
+    <element extends="task" label="Finance Case Management" max_length="40" name="x_126923_finance_c_finance_case_management" sizeclass="11" type="collection"/>
 </database>
